@@ -3,10 +3,10 @@
 
 
 - 👋 Hi, I’m @Jacob
-- 👀 I’m interested in App development, Software development.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m building.
-- 💞️ I’m looking to collaborate.
-- 📫 you can reach me through email, or connnect on twitter@Isahjakub
+- 💞️ I’m looking for collaborate.
+- 📫 you can reach out to me through email, or connnect with me on twitter@Isahjakub
 
 <!---
 Enecode/Enecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
