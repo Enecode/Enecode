@@ -14,4 +14,5 @@ I believe in diverse skill sets and people as they make products and communities
 ## Get in touch
 - Twitter: https://twitter.com/IsahJakub
 - Linkedin: https://linkedin.com/isahjacob
+- Dev.to : https://dev.to/jacobe
 
