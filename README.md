@@ -40,3 +40,11 @@ I believe in diverse skill sets and people as they make products and communities
 <a href="https://https://github.com//"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white </a> 
 
   </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enecode&show_icons=true&locale=en&layout=compact" alt="Isah_jacob" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enecode&show_icons=true&locale=en" alt="Isah-jacob" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enecode&" alt="Isah-Jacob" /></p>
+
