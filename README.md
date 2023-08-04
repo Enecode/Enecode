@@ -1,9 +1,9 @@
 ## Isah Jacob -- Software Engineer
-Hi, 👋I'm Jacob, a software engineering intern at Semicolon Africa with a versatile skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
+Hi, 👋I'm Jacob, a software engineer with a special skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
 
-In terms of technical skills, I have expertise in several programming languages and frameworks, including Python, Django, JavaScript, React, MySQL, and PostgreSQL. Leveraging my skills, I create beginner-friendly resources that make programming concepts accessible to those starting out in the tech space. You can find some of my technical writing below.
+In terms of technical skills, I have expertise in several programming languages and frameworks, including Python, Django, JavaScript, React, MySQL, Java and PostgreSQL. Leveraging my skills, I create beginner-friendly resources that make programming concepts accessible to those starting out in the tech space. You can find some of my technical writing below.
 
-Overall, I bring a unique blend of technical proficiency and communication skills to my work as a software engineering intern, and I am excited to contribute my skills and passion to Semicolon Africa's mission. 🚀
+Overall, I bring a unique blend of technical proficiency and communication skills to my work as a software engineer, and I am excited to contribute my skills and passion. 🚀
 
 ## ⚔️🛡 Mission
 As a software engineer, my passion for learning is never-ending, and my goal is to be a catalyst for change that helps make the world a better place through innovation and skill. I hold a strong belief in the value of diversity, both in skill sets and individuals, as they bring unique perspectives that lead to exceptional products and thriving communities.
