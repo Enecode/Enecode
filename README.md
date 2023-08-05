@@ -1,4 +1,4 @@
-## Isah Jacob -- Software Engineer
+## Isah Jacob -- Software Engineer || Technical Writer
 Hi, 👋I'm Jacob, a software engineer with a special skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
 
 In terms of technical skills, I have expertise in several programming languages and frameworks, including Python, Django, JavaScript, React, MySQL, Java and PostgreSQL. Leveraging my skills, I create beginner-friendly resources that make programming concepts accessible to those starting out in the tech space. You can find some of my technical writing below.
