@@ -1,24 +1,20 @@
 ## Isah Jacob -- Software Engineer || Technical Writer
-Hi, 👋I'm Jacob, a software engineer with a special skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
+- 3 Years of overall Software Development Experience
+- 2 Years of Django, Postgres, React (DPR)  Experience
+- Targeting Full-Stack, Front-end, or Back-end roles
 
-In terms of technical skills, I have expertise in several programming languages and frameworks, including Python, Django, JavaScript, React, MySQL, Java and PostgreSQL. Leveraging my skills, I create beginner-friendly resources that make programming concepts accessible to those starting out in the tech space. You can find some of my technical writing below.
+I am an innovative software engineer committed to pushing the limits of technology to provide brilliant results for businesses of all sizes. Beyond my work, I'm similarly committed to helping other professionals and tech enthusiasts along their paths by sharing my expertise through technical writing, lesson development, and interesting YouTube material.
 
-Overall, I bring a unique blend of technical proficiency and communication skills to my work as a software engineer, and I am excited to contribute my skills and passion. 🚀
+With a strong foundation in Python, and JavaScript, I enjoy turning challenging problems into well-structured and efficient code. I have experience in developing responsive web applications with React.js, implementing backend functionality with Django, and architecting comprehensive solutions. 
 
-## ⚔️🛡 Mission
-As a software engineer, my passion for learning is never-ending, and my goal is to be a catalyst for change that helps make the world a better place through innovation and skill. I hold a strong belief in the value of diversity, both in skill sets and individuals, as they bring unique perspectives that lead to exceptional products and thriving communities.
+I am passionate about learning new technologies and methodologies, collaborating with cross-functional teams, and creating meaningful innovations.
 
-## 🌱 Projects:
-- I collaborated with a team to design and implement an e-wallet app using Java, MySQL, and React.js for the front end. I implemented the front-end ( https://github.com/Enecode/e-wallet-frontend )
-- I collaborated with a team to design and implement an e-voting app using Django and PostgreSQL and React.js for the front end. ( https://github.com/Enecode/e-voting )
-- Using Django, I created a web-based blog application. ( https://github.com/Enecode/myblog )
-- Created a React Digital app that display my profile ( https://enecode.github.io/digital-profile )
-- Created a React app that display my profile ( https://enecode.github.io/digital-profile )
-- Created a web-based Meme Generator app with React.js (https://github.com/Enecode/meme-generator-react )
+JavaScript | Python | HTML | CSS | Django | APIs | TypeScript | TailWind | Bootstrap | Materialize CSS | MySQL | React.js | PostgreSQL |
+
 
 ## Get in touch
-- Twitter: https://twitter.com/IsahJakub
-- Linkedin: https://linkedin.com/isahjacob
+- Twitter: https://twitter.com/_jayky
+- Linkedin: https://linkedin.com/in/isahjacob
 - Dev.to : https://dev.to/jacobe
 - Medium : https://medium.com/@isahjacob
 - Show Case : https://enecode.showwcase.com/
